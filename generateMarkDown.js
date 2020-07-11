@@ -1,40 +1,44 @@
 generateMarkDown = data => {
 
   return `
+  ![License: ${data.license}](https://img.shields.io/badge/License-${data.license}-brightgreen)
+
   # ${data.title}
 
-  ## Description
+  ## ➤ Description
   ${data.description}
 
-  ### Table of Contents
+  ## ➤ Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [License](#License)
-  * [Version](#Version)
   * [Contributing](#Contributing)
   * [Tests](#Tests)
   * [Questions](#Questions)
 
   ---
 
-  ### Installation
+  ## ➤ Installation
   ${data.installation}
 
-  ### Usage
+  ## ➤ Usage
   ${data.usage}
 
-  ### License
-  ${data.license}
+  ## ➤ License
+  This app is covered under the following license/s:\n
+  ![License: ${data.license}](https://img.shields.io/badge/License-${data.license}-brightgreen)
 
-  ### Contributing
+  ## ➤ Contributing
   ${data.contributing}
 
-  ### Tests
+  ## ➤ Tests
   ${data.tests}
 
-  ### Questions
-  Please direct all questions to ${data.email}
+  ## ➤ Questions
+  Please direct all questions to:
+  https://github.com/${data.username}\n
+  ${data.email}
   `
 }
   
-  module.exports = generateMarkDown;
+module.exports = generateMarkDown;

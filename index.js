@@ -23,22 +23,39 @@ function promptUser() {
     {
       type: "input",
       name: "installation",
-      message: "What are the steps required to install your project?"
+      message: "Please provide installation instructions."
     },
     {
         type: "input",
         name: "usage",
-        message: "Provide instructions and examples for use."
+        message: "Please provide usage information."
+    },
+    {
+        type: "list",
+        name: "license",
+        message: "Please select the license your application is covered under.",
+        choices: [
+            "GNU", 
+            "Apache", 
+            "BSD", 
+            "MIT",
+            "ISC"
+        ]
     },
     {
       type: "input",
       name: "contributing",
-      message: "List your collaborators, if any, with links to their GitHub profiles."
+      message: "Please provide your contribution guidelines."
     },
     {
         type: "input",
         name: "tests",
-        message: "What are the tests that were done to this project?"
+        message: "Please provide test instructions."
+    },
+    {
+        type: "input",
+        name: "username",
+        message: "What is your GitHub username?"
     },
     {
         type: "input",
