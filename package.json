@@ -1,0 +1,26 @@
+{
+  "name": "cr-hw9-readme-generator",
+  "version": "1.0.0",
+  "description": "read me generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtineroq/cr-hw9-readme-generator.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "xtineroq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtineroq/cr-hw9-readme-generator/issues"
+  },
+  "homepage": "https://github.com/xtineroq/cr-hw9-readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.1",
+    "util": "^0.12.3"
+  }
+}
