@@ -6,42 +6,38 @@ generateMarkDown = data => {
   
   # ${data.title}
 
-  ## ➤ Description
-  ${data.description}
+  ## Description
+  ➤ ${data.description}
 
-  ## ➤ Table of Contents
-  * [Installation](#➤-installation)
-  * [Usage](#➤-usage)
-  * [License](#➤-license)
-  * [Contributing](#➤-contributing)
-  * [Tests](#➤-tests)
-  * [Questions](#➤-questions)
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
-  ## ➤ Installation
+  ## Installation
   \`\`\`
   ${data.installation}
   \`\`\`
   
-  ## ➤ Usage
-  \`\`\`
-  ${data.usage}
-  \`\`\`
+  ## Usage
+  ➤ ${data.usage}
 
-  ## ➤ License
+  ## License
   This app is covered under the following license/s:\n
   ![license](https://img.shields.io/badge/license-${data.license}-brightgreen)
 
-  ## ➤ Contributing
-  \`\`\`
-  ${data.contributing}
-  \`\`\`
+  ## Contributing
+  ➤ ${data.contributing}
 
-  ## ➤ Tests
+  ## Tests
   \`\`\`
   ${data.tests}
   \`\`\`
 
-  ## ➤ Questions
+  ## Questions
   Please direct all questions to:\n
   👤 https://github.com/${data.username}\n
   📧 ${data.email}

@@ -1,49 +1,45 @@
 
-  ![license](https://img.shields.io/badge/license-MIT-brightgreen)
+  ![license](https://img.shields.io/badge/license-ISC-brightgreen)
   [![GitHub followers](https://img.shields.io/github/followers/xtineroq.svg?style=social&label=Followers)](https://github.com/xtineroq?tab=followers)
   
-  # title
+  # Good README Generator
 
-  ## ➤ Description
-  desc
+  ## Description
+  ➤ This application automatically generates a README.md.
 
-  ## ➤ Table of Contents
-  * [Installation](#➤-installation)
-  * [Usage](#➤-usage)
-  * [License](#➤-license)
-  * [Contributing](#➤-contributing)
-  * [Tests](#➤-tests)
-  * [Questions](#➤-questions)
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
-  ## ➤ Installation
+  ## Installation
   ```
-  install
+  Please run npm i locally and use node index.js to run the application.
   ```
   
-  ## ➤ Usage
-  ```
-  usage
-  ```
+  ## Usage
+  ➤ This application can be used to generate professional looking README for GitHub respositories.
 
-  ## ➤ License
+  ## License
   This app is covered under the following license/s:
 
-  ![license](https://img.shields.io/badge/license-MIT-brightgreen)
+  ![license](https://img.shields.io/badge/license-ISC-brightgreen)
 
-  ## ➤ Contributing
-  ```
-  guide
-  ```
+  ## Contributing
+  ➤ There is no specific contribution guidelines. This repo is open to the public.
 
-  ## ➤ Tests
+  ## Tests
   ```
-  test
+  No specific tests have been performed for this application.
   ```
 
-  ## ➤ Questions
+  ## Questions
   Please direct all questions to:
 
   👤 https://github.com/xtineroq
 
-  📧 mc@gmail.com
+  📧 mcroque89@gmail.com
   
