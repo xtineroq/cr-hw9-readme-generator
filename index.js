@@ -43,9 +43,9 @@ function promptUser() {
         ]
     },
     {
-      type: "input",
-      name: "contributing",
-      message: "Please provide your contribution guidelines."
+        type: "input",
+        name: "contributing",
+        message: "Please provide your contribution guidelines."
     },
     {
         type: "input",

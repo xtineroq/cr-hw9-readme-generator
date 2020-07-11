@@ -1,41 +1,49 @@
 
-  ![License: ISC](https://img.shields.io/badge/License-ISC-brightgreen)
-
-  # Test Project
+  ![license](https://img.shields.io/badge/license-MIT-brightgreen)
+  [![GitHub followers](https://img.shields.io/github/followers/xtineroq.svg?style=social&label=Followers)](https://github.com/xtineroq?tab=followers)
+  
+  # title
 
   ## ➤ Description
-  Use this readme generator to easily generate beautiful readme's like this one! Simply extend your package.json and create a readme blueprint. On Github, the README file is like the landing page of your website because it is the first thing visitors see. You want to make a good first impression.
+  desc
 
   ## ➤ Table of Contents
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [License](#License)
-  * [Contributing](#Contributing)
-  * [Tests](#Tests)
-  * [Questions](#Questions)
-
-  ---
+  * [Installation](#➤-installation)
+  * [Usage](#➤-usage)
+  * [License](#➤-license)
+  * [Contributing](#➤-contributing)
+  * [Tests](#➤-tests)
+  * [Questions](#➤-questions)
 
   ## ➤ Installation
-  Welcome to @appnest/readme. This is version 1.2.5.
-
+  ```
+  install
+  ```
+  
   ## ➤ Usage
-  Run the node_modules/.bin/readme generate command and a README file will be generated for you. If you want to go into depth with the readme command, check out the following options or write node_modules/.bin/readme generate -h in your terminal if that's your cup of tea.
+  ```
+  usage
+  ```
 
   ## ➤ License
   This app is covered under the following license/s:
 
-  ![License: ISC](https://img.shields.io/badge/License-ISC-brightgreen)
+  ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## ➤ Contributing
-  If you have come this far you are probably interested to figure out how to use README templates. This library comes with a set of pre-defined templates to make your readme awesome, but you can of course create your own. More about that later, let's not get ahead of our self just yet.
+  ```
+  guide
+  ```
 
   ## ➤ Tests
-  Use the placeholder {{ template:logo }} to stamp it. You will need to add the logo field to your blueprint.json. The logo field requires an src field. Optionally you can provide values for width, height and alt. Below is an example on how to add the data for the logo template.
+  ```
+  test
+  ```
 
   ## ➤ Questions
   Please direct all questions to:
-  https://github.com/xtineroq
 
-  mcroque89@gmail.com
+  👤 https://github.com/xtineroq
+
+  📧 mc@gmail.com
   
