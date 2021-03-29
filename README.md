@@ -63,7 +63,6 @@ No specific tests have been performed for this application.
 ## Questions
 Please direct all questions to:
 *  👤 https://github.com/xtineroq
-*  📧 mcroque89@gmail.com
 
 ## Video Link
 [Walkthrough Video](https://www.loom.com/share/c6177bdce1b84fcb9bf302f808ce0d7a)
