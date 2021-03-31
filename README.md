@@ -6,7 +6,7 @@
 # Good README Generator
 
 ## Description
-This application automatically generates a README.md for your GitHub repository.
+This application automatically generates a README.md that can be used on your GitHub repository.
 
 ## Table of Contents
 * [Acceptance Criteria](#acceptance-criteria)
